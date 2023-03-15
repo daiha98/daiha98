@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">▪️ <b>Brazilian</b>, born in Nov/1998, from Rio de Janeiro/Tijuca;<br>▪️ Passionate fan of <b>Soccer</b> (Flamengo) and <b>NBA</b> (Philadelphia 76ers);<br>▪️ Addicted to playing <b>video-games</b>;<br>▪️ Loves going out with <b>friends</b> and goof off</p>
+<p align="left">▫️ <b>Brazilian</b>, born in Nov/1998, from Rio de Janeiro/Tijuca;<br>▫️ Passionate fan of <b>Soccer</b> (Flamengo) and <b>NBA</b> (Philadelphia 76ers);<br>▫️ Addicted to playing <b>video-games</b>;<br>▫️ Loves going out with <b>friends</b> and goof off</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">▪️ <b>Data Scientist</b> @ <i>Mutual</i> <> Mar, 2021 to Feb, 2023<br>▪️ <b>Data Analyst Intern</b> @ <i>Instituto Brasil</i> <> Mar, 2021 to Feb, 2023<br>▪️ <b>Data Scientist Intern</b> @ <i>LEMETRO/UFRJ</i> <> Aug, 2018 to Aug, 2020<br>▪️ <b>DBA Volunteer</b> @ <i>LIEG/UFRJ</i> <> Mar, 2019 to May, 2019</p>
+<p align="left">▫️ <b>Data Scientist</b> @ <i>Mutual</i> <> Mar, 2021 to Feb, 2023<br>▫️ <b>Data Analyst Intern</b> @ <i>Instituto Brasil</i> <> Mar, 2021 to Feb, 2023<br>▫️ <b>Data Scientist Intern</b> @ <i>LEMETRO/UFRJ</i> <> Aug, 2018 to Aug, 2020<br>▫️ <b>DBA Volunteer</b> @ <i>LIEG/UFRJ</i> <> Mar, 2019 to May, 2019</p>
 
 ###
 
