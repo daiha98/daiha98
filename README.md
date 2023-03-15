@@ -79,18 +79,11 @@
   <a href="https://www.linkedin.com/in/felipe-daiha-alves/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
-  <a href="daihafelipe@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJlGVBGtxJkZNKcQDPsGWxxZPGkqNGxlcTHcJXpCbRknDKknDgGFdHVKkDKBqJHXQwxDWnq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
-  </a>
-  <a href="daiha2#9918" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.facebook.com/felipe.daiha.9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="40" alt="facebook logo"  />
-  </a>
-  <a href="+5521998003167" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="40" alt="whatsapp logo"  />
-  </a>
 </div>
 
 ###
