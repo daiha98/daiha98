@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">▪️ **Brazilian**, born in Nov/1998, from Rio de Janeiro/Tijuca;<br>▪️ Passionate fan of **Soccer** (Flamengo) and **NBA** (Philadelphia 76ers);<br>▪️ Addicted to playing **video-games**;<br>▪️ Loves going out with **friends** and goof off</p>
+<p align="left">▪️ <b>Brazilian</b>, born in Nov/1998, from Rio de Janeiro/Tijuca;<br>▪️ Passionate fan of <b>Soccer</b> (Flamengo) and <b>NBA</b> (Philadelphia 76ers);<br>▪️ Addicted to playing <b>video-games</b>;<br>▪️ Loves going out with <b>friends</b> and goof off</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">▪️ **Data Scientist** @ *Mutual* <> Mar, 2021 to Feb, 2023<br>▪️ **Data Analyst Intern** @ *Instituto Brasil* <> Mar, 2021 to Feb, 2023<br>▪️ **Data Scientist Intern** @ *LEMETRO/UFRJ* <> Aug, 2018 to Aug, 2020<br>▪️ **DBA Volunteer** @ *LIEG/UFRJ* <> Mar, 2019 to May, 2019</p>
+<p align="left">▪️ <b>Data Scientist</b> @ <i>Mutual</i> <> Mar, 2021 to Feb, 2023<br>▪️ <b>Data Analyst Intern</b> @ <i>Instituto Brasil</i> <> Mar, 2021 to Feb, 2023<br>▪️ <b>Data Scientist Intern</b> @ <i>LEMETRO/UFRJ</i> <> Aug, 2018 to Aug, 2020<br>▪️ <b>DBA Volunteer</b> @ <i>LIEG/UFRJ</i> <> Mar, 2019 to May, 2019</p>
 
 ###
 
@@ -64,14 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="60" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" width="60" alt="rstudio logo"  />
 </div>
-
-###
-
-<h2 align="left">Contributions</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/daiha98/daiha98/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
