@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">▫️ <b>Data Scientist</b> @ <i>Mutual</i> <> Mar, 2021 to Feb, 2023<br>▫️ <b>Data Analyst Intern</b> @ <i>Instituto Brasil</i> <> Feb, 2021 to Apr, 2021<br>▫️ <b>Data Scientist Intern</b> @ <i>LEMETRO/UFRJ</i> <> Aug, 2018 to Aug, 2020<br>▫️ <b>DBA Volunteer</b> @ <i>LIEG/UFRJ</i> <> Mar, 2019 to May, 2019</p>
+<p align="left">▫️ <b>Data Scientist</b> @ <i>Mercado Livre</i> <> Apr, 2023 until now<br>▫️ <b>Data Scientist</b> @ <i>Mutual</i> <> Mar, 2021 to Feb, 2023<br>▫️ <b>Data Analyst Intern</b> @ <i>Instituto Brasil</i> <> Feb, 2021 to Apr, 2021<br>▫️ <b>Data Scientist Intern</b> @ <i>LEMETRO/UFRJ</i> <> Aug, 2018 to Aug, 2020<br>▫️ <b>DBA Volunteer</b> @ <i>LIEG/UFRJ</i> <> Mar, 2019 to May, 2019</p>
 
 ###
 
