@@ -18,11 +18,11 @@
 <p align="left">✔ Here's a little bit of my professional history:</p>
 
 <p align="left">
+▫️ <b>Data Science/Analysis Instructor</b> @ <i>TripleTen LatAm</i> <> Feb, 2025 until now<br>  
 ▫️ <b>Data Scientist</b> @ <i>Mercado Livre</i> <> Apr, 2023 until now<br>
 ▫️ <b>Data Scientist</b> @ <i>Mutual</i> <> Mar, 2021 to Feb, 2023<br>
-▫️ <b>Data Analyst Intern</b> @ <i>Instituto Brasil</i> <> Feb, 2021 to Apr, 2021<br>
 ▫️ <b>Data Scientist Intern</b> @ <i>LEMETRO/UFRJ</i> <> Aug, 2018 to Aug, 2020<br>
-▫️ <b>DBA Volunteer</b> @ <i>LIEG/UFRJ</i> <> Mar, 2019 to May, 2019
+▫️ <b>Junior Database Administrator</b> @ <i>LIEG/UFRJ</i> <> Mar, 2019 to May, 2019
 </p>
 
 ---
@@ -63,6 +63,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="50" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="50" alt="gcp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="50" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="50" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50" alt="git logo" />
